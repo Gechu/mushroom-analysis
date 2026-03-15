@@ -18,7 +18,7 @@ Analiza zbioru grzybów obejmująca przygotowanie danych, różne techniki kodow
 
 ## Zawartość repozytorium
 - notebook z pełną analizą (`mushroom_analysis.ipynb`)
-- folder z danymi (jeśli dostępne)
+- dane (`mashrooms.csv`)
 - opis projektu (`README.md`)
 
 ## Uruchamianie
